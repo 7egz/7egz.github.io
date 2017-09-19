@@ -57,7 +57,7 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
 
 var AppComponent = (function () {
     function AppComponent() {
-        this.title = 'Mosaik';
+        this.title = 'Roka';
     }
     return AppComponent;
 }());
